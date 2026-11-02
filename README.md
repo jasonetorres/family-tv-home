@@ -6,7 +6,9 @@ The home screen is a fork of [Luma TV](https://github.com/0xProbabillity/luma-tv
 
 ![Home](docs/screenshots/home.png)
 
-![Weather](docs/screenshots/weather.png)
+![Weather](docs/screenshots/now_clear_day.png)
+
+The weather app renders above are from the instrumented preview test, using the example city. More states (night, rain, snow, hourly, 7-day) are in `docs/screenshots/`.
 
 ## What you get
 
