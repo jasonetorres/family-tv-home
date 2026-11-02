@@ -1,0 +1,49 @@
+# TCL Google TV package catalog.
+# STATUS: community lists for TCL Google TV, checked 2026-10. Confirm on your firmware.
+# Format: package | tier | what it is
+#   safe     = ads, promos, telemetry, demo. The --tier safe switch suggests these.
+#   optional = ask first. Some homes use these.
+#   keep     = do not disable. Listed so the script and a reader can refuse.
+# The default suggested set (no --tier) is the short list in debloat.sh, not this whole file.
+com.tcl.tv.plus                         | safe     | TCL TV+ free ad-supported channels
+com.tcl.channelplus                     | safe     | TCL Live FAST channels
+com.tcl.tv.tclchannel                   | safe     | TCL Channel
+com.tcl.waterfall.overseas              | safe     | TCL Channel / promo feed
+com.tcl.messagebox                      | safe     | TCL pushed messages and promos
+com.tcl.esticker                        | safe     | retail-demo sticker
+com.tcl.exhibit                         | safe     | store demo mode
+com.tcl.hotelmenu                       | safe     | hotel-mode portal
+com.tcl.tv.tclhome_passive              | safe     | TCL content pushed to the home screen
+com.tcl.partnercustomizer               | safe     | partner app and promo customizer
+com.tcl.dashboard                       | safe     | TCL Home panel promos
+com.tcl.logkit                          | safe     | log capture / telemetry
+com.tcl.guard                           | safe     | TCL Guard
+com.google.android.feedback             | safe     | Google feedback reporter
+com.android.tv.feedbackconsent          | safe     | feedback consent
+com.android.adservices.api              | safe     | Privacy Sandbox ad services
+com.android.ondevicepersonalization.services | safe | ad personalization
+com.android.federatedcompute.services   | safe     | federated compute
+android.autoinstalls.config.google.gtvpai | safe   | auto-installs partner apps
+com.tcl.ocean.instructions              | optional | on-TV manual
+com.tcl.repairguide                     | optional | self-diagnosis
+com.tcl.usercenter                      | optional | TCL account
+com.tcl.browser                         | optional | TCL browser
+com.tcl.gamebar                         | optional | game bar overlay
+com.tcl.hearaid                         | optional | hearing helper
+com.google.android.videos               | optional | Google TV movies
+com.google.android.play.games           | optional | Play Games
+com.google.android.apps.tv.dreamx       | optional | Google ambient screensaver
+com.google.android.apps.tv.launcherx    | optional | stock Google TV home. Disable only after Family Home is the home screen and works.
+com.google.android.katniss              | optional | Google Assistant
+com.google.android.tv.assistant         | optional | Assistant
+com.tcl.smartalexa                      | optional | Alexa
+com.google.android.apps.mediashell      | optional | Chromecast built-in
+com.tcl.ttvs                            | optional | TCL services; may handle firmware updates
+com.tcl.UpdatePeripheral                | optional | peripheral and firmware updates
+com.tcl.tv                              | keep     | Live TV / tuner
+com.tcl.tvinput                         | keep     | HDMI inputs
+com.tcl.suspension                      | keep     | input menu and remote hot keys
+com.tcl.systemserver                    | keep     | system
+com.google.android.tungsten.setupwraith | keep     | setup wizard
+com.google.android.gms                  | keep     | Play services
+com.android.vending                     | keep     | Play Store

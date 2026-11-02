@@ -1,0 +1,38 @@
+Weather wallpapers (Wikimedia Commons, CC0 / public domain), center-cropped to 1920x1080.
+
+wpw_clear_day.jpg  <-  File:Blue skies and patchy clouds (Unsplash).jpg
+  License: CC0  Author: ideadad ideadad
+  https://commons.wikimedia.org/wiki/File:Blue_skies_and_patchy_clouds_(Unsplash).jpg
+
+wpw_clear_night.jpg  <-  File:Over a lake on a starry night (Unsplash).jpg
+  License: CC0  Author: Tyson Dudley ty_dudley
+  https://commons.wikimedia.org/wiki/File:Over_a_lake_on_a_starry_night_(Unsplash).jpg
+
+wpw_cloudy.jpg  <-  File:Cloud over a forest (Unsplash).jpg
+  License: CC0  Author: Stas Ovsky technobulka
+  https://commons.wikimedia.org/wiki/File:Cloud_over_a_forest_(Unsplash).jpg
+
+wpw_rain.jpg  <-  File:Rain on window (Unsplash).jpg
+  License: CC0  Author: Francesco Gallarotti gallarotti
+  https://commons.wikimedia.org/wiki/File:Rain_on_window_(Unsplash).jpg
+
+wpw_snow.jpg  <-  File:A cabin among the snowy forest (Unsplash).jpg
+  License: CC0  Author: Gérôme Bruneau geromebruneau
+  https://commons.wikimedia.org/wiki/File:A_cabin_among_the_snowy_forest_(Unsplash).jpg
+
+wpw_fog.jpg  <-  File:Foggy morning in Břve, Hostivice.jpg
+  License: CC0  Author: Ted Moravec
+  https://commons.wikimedia.org/wiki/File:Foggy_morning_in_B%C5%99ve,_Hostivice.jpg
+
+wpw_storm.jpg  <-  File:Lighting Storm at Night (Unsplash).jpg
+  License: CC0  Author: Dominik QN dominik_qn
+  https://commons.wikimedia.org/wiki/File:Lighting_Storm_at_Night_(Unsplash).jpg
+
+wpw_golden.jpg  <-  File:Dusk Sunset Sky.jpg
+  License: CC0  Author: Unknown authorUnknown author
+  https://commons.wikimedia.org/wiki/File:Dusk_Sunset_Sky.jpg
+
+Live Weather (default) illustrations wpa_*.jpg: original generated illustrations for this project (1280x720, Lanczos-upscaled to 1920x1080). No third-party license.
+The wpw_* photographs above are used by "Live Weather (Photo)".
+Day/dusk/night matrix (wpa_*_dusk, wpa_*_night): original generated illustrations, Lanczos-upscaled to 1920x1080. Storm at dusk reuses wpa_rain_dusk.
+Holiday snow (wpa_xmas_*): original generated illustrations, Lanczos-upscaled to 1920x1080.

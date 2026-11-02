@@ -1,0 +1,11 @@
+Family Home
+Copyright (c) 2026 Family Home contributors
+
+The launcher in launcher/ is a modified fork of Luma TV 2.4.
+Luma TV is Copyright (c) 2026 0xProbability and is licensed under the MIT License.
+Upstream: https://github.com/0xProbabillity/luma-tv
+The upstream MIT text is also in launcher/LICENSE.
+This project is not affiliated with the upstream author. Settings → About credits Luma TV
+and does not show the upstream tip addresses.
+
+Other third-party pieces are listed in README.md under Credits.

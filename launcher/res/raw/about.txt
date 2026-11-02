@@ -1,0 +1,5 @@
+# Shown in Settings → About. The source link is also the QR code (tools/support-qr.sh).
+name=Family Home
+author=Family Home contributors, from Luma TV by 0xProbability
+github=https://github.com/0xProbabillity/luma-tv
+source=https://github.com/0xProbabillity/luma-tv

@@ -1,0 +1,56 @@
+{
+  "family": {
+    "name": "Example family",
+    "members": ["Sam", "Riley"]
+  },
+  "parent": {
+    "name": "Alex"
+  },
+  "home": {
+    "name": "Example City",
+    "latitude": 39.9526,
+    "longitude": -75.1652,
+    "timezone": "America/New_York",
+    "airport": "PHL",
+    "units": "fahrenheit",
+    "clock": "12"
+  },
+  "ntfy": {
+    "server": "https://ntfy.sh",
+    "topic": "",
+    "token": ""
+  },
+  "photos": {
+    "enabled": false,
+    "albumUrl": ""
+  },
+  "flights": {
+    "enabled": false
+  },
+  "ticker": {
+    "leagues": "BOTH",
+    "favorites": []
+  },
+  "launcher": {
+    "topRowApps": [
+      "com.google.android.youtube.tv",
+      "com.google.android.youtube.tvunplugged",
+      "com.netflix.ninja",
+      "com.disney.disneyplus",
+      "com.plexapp.android"
+    ],
+    "hiddenApps": [
+      "com.tcl.tv",
+      "com.tcl.suspension",
+      "com.tcl.tv.plus",
+      "com.tcl.t_solo",
+      "com.tcl.ui_mediaCenter",
+      "com.tcl.dashboard"
+    ],
+    "factPack": "general",
+    "seasonal": true
+  },
+  "tv": {
+    "address": "192.0.2.10:5555"
+  }
+}

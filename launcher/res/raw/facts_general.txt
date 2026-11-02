@@ -1,0 +1,32 @@
+# General fact pack. One fact per line. Lines starting with # are ignored.
+# Swap packs by setting launcher.factPack in config/family.json and adding res/raw/facts_NAME.txt.
+Honey does not spoil when it is sealed and kept dry.
+An octopus has three hearts and blue blood.
+Bananas are botanically berries.
+Water expands when it freezes, which is why ice floats.
+Sound moves faster through water than through air.
+A day on Venus is longer than a Venus year.
+The Pacific Ocean is the largest ocean on Earth.
+Adult humans usually have 206 bones.
+Lightning is hotter than the surface of the Sun.
+A group of flamingos is called a flamboyance.
+Earth's atmosphere is mostly nitrogen.
+The Sahara is the largest hot desert on Earth.
+Honeybees dance to tell other bees where flowers are.
+A year on Mercury is 88 Earth days.
+Glass is made mostly from melted sand.
+The human heart beats about 100,000 times a day.
+Mount Everest is Earth's highest mountain above sea level.
+Octopuses can taste with their arms.
+Rainforests produce a large share of the world's oxygen-cycle turnover.
+A sneeze can travel faster than a highway car.
+The Nile and the Amazon are among the world's longest rivers.
+Penguins live in the Southern Hemisphere, not the Arctic.
+Diamonds and pencil graphite are both forms of carbon.
+The Moon is slowly moving away from Earth.
+Cats sleep more than half of the day.
+A bolt of lightning is a giant electric spark.
+The Dead Sea is so salty that people float easily.
+Butterflies taste with their feet.
+Earth is the only planet known to have liquid water on its surface.
+A rainbow needs sunlight and water droplets in the air.
